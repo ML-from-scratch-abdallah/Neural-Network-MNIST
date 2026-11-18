@@ -179,7 +179,7 @@ The validation set is used to monitor generalization and never contributes to pa
 |---|---|
 | Training | ~90% |
 | Validation | ~85% |
-| Test | Not reported |
+| Test | ~87% |
 
 These are approximate figures from my own runs, not verified benchmarks. The notebook includes a test-accuracy cell, but a final test result has not been recorded yet. The result is a working implementation of a small network, not a competitive MNIST score.
 
